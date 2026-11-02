@@ -1,0 +1,6 @@
+{
+  "name": "SGA Software Architecture Dossier",
+  "description": "Análisis y diseño arquitectónico senior para Sistema de Gestión Académica: comparativa de estilos, 12 RF, 12 RNF y decisiones arquitectónicas justificadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
